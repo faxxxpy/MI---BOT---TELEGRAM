@@ -10,7 +10,7 @@ session_name = 'mi_sesion'  # Nombre de tu archivo de sesión (.session)
 bot_username = '@MONKEYDATA_BOT'  # <-- cámbialo por el bot al que le escribes
 
 # Rango de DNIs
-dni_inicio = 47  # Desde 00000001
+dni_inicio = 1284  # Desde 00000001
 dni_fin = 99999999  # Hasta 99999999 o el número que quieras
 
 async def main():
